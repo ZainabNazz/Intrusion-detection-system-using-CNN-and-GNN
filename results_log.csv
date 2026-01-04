@@ -1,0 +1,4 @@
+Filename,Prediction,Confidence
+sample.txt,Normal,99.97%
+sample2.txt,Normal,100.00%
+sample1.txt,Attack,95.53%

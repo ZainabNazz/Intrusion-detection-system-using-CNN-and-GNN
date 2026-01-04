@@ -1,0 +1,5 @@
+Accuracy : 0.92F1-Score: 0.7074
+Precision: 0.6790
+Recall: 0.7383
+False Positive Rate: 0.0499
+Attack Detection Rate: 0.7383
